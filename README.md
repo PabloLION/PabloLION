@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I play A LOT of Age Of empires II: Definitive Edition
 
 ### My Projects(Planned)
-py-leet-runner
-allingo
+0. py-leet-runner
+1. allingo
 
 ### Maintaining
 Chrome Terminal
