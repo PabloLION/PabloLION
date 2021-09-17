@@ -8,6 +8,7 @@ export function showCurPos(): void {
 }
 
 export function logUpdatedDiff(
+  // https://gist.github.com/albertorestifo/83877c3e4c81066a592a47c4dcf6753b#gistcomment-3880897
   prev: { [key: string]: any },
   current: { [key: string]: any }
 ): void {
