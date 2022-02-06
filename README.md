@@ -8,11 +8,14 @@
 - ⚡ Fun fact: I play A LOT of Age Of empires II: Definitive Edition
 
 ### Dev blog
-My Knowledge Base is on [Wiki Page of this Repo](../../wiki)
+
+My Knowledge Base is on [Obsidian Arrow](https://note.pablolion.com/)
 
 ### My Projects(Planned)
+
 0. py-leet-runner
 1. allingo
 
 ### Maintaining
-Chrome Terminal (last maintenance 
+
+Chrome Terminal (last maintenance
